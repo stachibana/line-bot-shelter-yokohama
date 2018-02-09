@@ -7,6 +7,8 @@ Add friend via [https://line.me/R/ti/p/%40jod8279c](https://line.me/R/ti/p/%40tr
 
 ![QR Link](https://raw.githubusercontent.com/stachibana/line-bot-shelter-yokohama/master/qr.png)
 
+You can see detailed description of this project [here](https://engineering.linecorp.com/ja/blog/detail/225).
+
 ## Procedure
 
 ### LINE BOT
